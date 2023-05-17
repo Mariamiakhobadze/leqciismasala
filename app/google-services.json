@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035343601478",
+    "project_id": "group-1-project-baaf5",
+    "storage_bucket": "group-1-project-baaf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035343601478:android:73a393fcb9b6ee4b75cf47",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035343601478-9tsa3scifav94e310bpkvcgpa2hcpefa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwPZdddkOwV9wddu06ctvbsVzvCCH-rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035343601478-9tsa3scifav94e310bpkvcgpa2hcpefa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
